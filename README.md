@@ -1,4 +1,4 @@
-# Business Keeper AG Task: Backend 
+# AG Task: Backend 
 #General info
 * It is Java  Micro-Service Application, utilizing Spring Boot
 * It has test automation for unit testing and integration testing
